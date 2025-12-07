@@ -2,9 +2,9 @@
 
 | Номер задачи | Статус по коду | Статус по блок-схеме |
 | --- | --- | --- |
-| 1.1 | :green_circle: | :yellow_circle: |
-| 1.2 | :green_circle: | :yellow_circle: |
-| 1.3 | :green_circle: | :yellow_circle: |
+| 1.1 | :green_circle: | :green_circle: |
+| 1.2 | :green_circle: | :green_circle: |
+| 1.3 | :green_circle: | :green_circle: |
 | 2.1 | :green_circle: | :yellow_circle: |
 | 2.2 | :green_circle: | :yellow_circle: |
 | 2.3 | :green_circle: | :red_circle: |
