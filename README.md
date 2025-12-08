@@ -12,11 +12,11 @@
 | 2.5 | :green_circle: | :yellow_circle: |
 | 2.6 | :green_circle: | :yellow_circle: |
 | 2.7 | :yellow_circle: | :red_circle: |
-| 2.8 | :yellow_circle: | :red_circle: |
-| 2.9 | :yellow_circle: | :red_circle: |
-| 2.10 | :yellow_circle: | :red_circle: |
-| 2.11 | :red_circle: | :red_circle: |
-| 2.12 | :red_circle: | :red_circle: |
+| 2.8 | :green_circle: | :red_circle: |
+| 2.9 | :green_circle: | :red_circle: |
+| 2.10 | :green_circle: | :red_circle: |
+| 2.11 | :yellow_circle: | :red_circle: |
+| 2.12 | :yellow_circle: | :red_circle: |
 | 2.13 | :red_circle: | :red_circle: |
 | 2.14 | :red_circle: | :red_circle: |
 | 2.15 | :red_circle: | :red_circle: |
