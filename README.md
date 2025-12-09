@@ -8,7 +8,7 @@
 | 2.1 | :green_circle: | :green_circle: |
 | 2.2 | :green_circle: | :green_circle: |
 | 2.3 | :green_circle: | :green_circle: |
-| 2.4 | :green_circle: | :yellow_circle: |
+| 2.4 | :green_circle: | :green_circle: |
 | 2.5 | :green_circle: | :yellow_circle: |
 | 2.6 | :green_circle: | :yellow_circle: |
 | 2.7 | :yellow_circle: | :red_circle: |
