@@ -16,6 +16,3 @@ int main(){
     cout << S << endl; 
     return 0; 
 }
-
-int n; 
-int t, s = 0; 
