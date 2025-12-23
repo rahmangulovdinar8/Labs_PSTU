@@ -8,7 +8,7 @@
 using namespace std;
 int main(){
     float x,x0;
-    double e = 0.000001, lambda = -0.1; 
+    double e = 0.000001, lambda = -0.25; 
     x = 0; 
     x0 = 2; 
     while (abs(x-x0) > e){ 
