@@ -12,7 +12,7 @@ int main(){
     while(abs(x-x0) > e)
     {
         x0 = x;
-        x = x0 - (((0.25 * pow(x, 3)) + x - 1.2502) / ((0.75 * pow(x, 2)) + 1));
+        x = x0 - (((0.25 * pow(x, 3)) + x0 - 1.2502) / ((0.75 * pow(x, 2)) + 1));
     }
     cout << "Root:" << x << endl;
     return 0; 
