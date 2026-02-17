@@ -29,14 +29,11 @@
 | 2.22 | :green_circle: | :green_circle: |
 | 2.23 | :green_circle: | :green_circle: |
 
-## 1 семестр
-
-| п\п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
-| --- | --- | --- | --- | --- |
-|     |     |     |     |     |
-
 ## 2 семестр
 
-| п\п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
-| --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+| п/п | Описание |Статус: код/схема |Ссылка на папку|
+|---|---|---|---|
+|sorting|Сортировка пузырьком, вставкой, выбором||https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/simple_sorting|
+|static_arrays|Работа со статичныи массивами||https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/static_arrays|
+|lab_4|4-я лабораторная из зелёной методички||https://github.com/egovcevivan/Labs_PSTU/tree/main/Sem_2/lab_4|
+|lab_5|5-я лабораторная работа из зелёной методички|| |
