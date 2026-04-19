@@ -39,7 +39,7 @@
 |---|---|---|---|
 |Lab №1|4-я лабораторная из зелёной методички (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_4|
 |Lab №2|5-я лабораторная из зелёной методички (9 вариант)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_5|
-|Lab №3|3-я лабораторная из зелёной методички (9 вариант) + НОД + числа Фибоначчи |🟠/🟠||
+|Lab №3|3-я лабораторная из зелёной методички (9 вариант) + НОД + числа Фибоначчи |🟠/🟠|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_3|
 |Lab №4|Ханойская башня|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/hanoi|
 |Lab №5|Задача о 8-ми ферзях|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/8_queens|
 |Lab №6|Простые сортировки(пузырьком, выбором, вставкой) |🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/sorting|
