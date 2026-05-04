@@ -47,8 +47,8 @@
 |Lab №8|7.1-я лабораторная из зелёной методички (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_7.1|
 |Lab №9|7.2-я лабораторная из зелёной методички (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_7.2|
 |Lab №10|6-я лабораторная из зелёной методички (9 вариант)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_6|
-|Lab №11|9-я лабораторная из зелёной методички (9 вариант)|🟠/🟠||
-|Lab №12|8-я лабораторная из зелёной методички(9 вариант)|🟠/🟠||
+|Lab №11|9-я лабораторная из зелёной методички (9 вариант)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_9|
+|Lab №12|8-я лабораторная из зелёной методички(9 вариант)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_8|
 |Lab №13|11-я лабораторная из зелёной методички(9 вариант) на однонаправленные списки|🟠/🟠||
 |Lab №14|11-я лабораторная из зелёной методички(9 вариант) на двунаправленные списки|🟠/🟠||
 |Lab №15|11-я лабораторная из зелёной методички(9 вариант) на стеки|🟠/🟠||
