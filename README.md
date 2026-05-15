@@ -49,16 +49,16 @@
 |Lab №10|6-я лабораторная из зелёной методички (9 вариант)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_6|
 |Lab №11|9-я лабораторная из зелёной методички (9 вариант)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_9|
 |Lab №12|8-я лабораторная из зелёной методички(9 вариант)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_8|
-|Lab №13|11-я лабораторная из зелёной методички(9 вариант) на однонаправленные списки|🟠/🟠||
-|Lab №14|11-я лабораторная из зелёной методички(9 вариант) на двунаправленные списки|🟠/🟠||
-|Lab №15|11-я лабораторная из зелёной методички(9 вариант) на стеки|🟠/🟠||
-|Lab №16|11-я лабораторная из зелёной методички(9 вариант) на очереди|🟠/🟠||
-|Lab №17|Простые поиски: линейный, бинарный, интерполяционный|🟠/🟠||
-|Lab №18|Поиски подстроки в строке(наивный, Бойер-Мур, КМП)|🟠/🟠||
-|Lab №19|Быстрая сортировка по Ломуто, сортировки слиянием, подсчётом и блочная|🟠/🟠||
-|Lab №20|Быстрая сортировка по Хоару и сортировка Шелла|🟠/🟠||
-|Lab №21|Многофазная и естественная сортировки|🔴/🔴||
-|Lab №22|Хэщ-таблица|🔴/🔴||
+|Lab №13|11-я лабораторная из зелёной методички(9 вариант) на однонаправленные списки|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_11/11.1|
+|Lab №14|11-я лабораторная из зелёной методички(9 вариант) на двунаправленные списки|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_11/11.2|
+|Lab №15|11-я лабораторная из зелёной методички(9 вариант) на стеки|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_11/11.3|
+|Lab №16|11-я лабораторная из зелёной методички(9 вариант) на очереди|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_11/11.4|
+|Lab №17|Простые поиски: линейный, бинарный, интерполяционный|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_12|
+|Lab №18|Поиски подстроки в строке(наивный, Бойер-Мур, КМП)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_13|
+|Lab №19|Быстрая сортировка по Ломуто, сортировки слиянием, подсчётом и блочная|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_14|
+|Lab №20|Быстрая сортировка по Хоару и сортировка Шелла|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_15|
+|Lab №21|Многофазная и естественная сортировки|🟠/🟠||
+|Lab №22|Хэщ-таблица|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_17|
 
 #### Классы
 | п/п | Описание |Статус: код/схема |Ссылка на папку|
