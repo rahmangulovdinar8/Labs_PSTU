@@ -37,7 +37,7 @@
 ### Лабораторные
 | п/п | Описание |Статус: код/схема |Ссылка на папку|
 |---|---|---|---|
-|Lab №1|4-я лабораторная из зелёной методички (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_4|
+|Lab №1|4-я лабораторная из зелёной методички (9 вариант)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_4|
 |Lab №2|5-я лабораторная из зелёной методички (9 вариант)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_5|
 |Lab №3|3-я лабораторная из зелёной методички (9 вариант) + НОД + числа Фибоначчи |🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_3|
 |Lab №4|Ханойская башня|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/hanoi|
@@ -58,7 +58,7 @@
 |Lab №19|Быстрая сортировка по Ломуто, сортировки слиянием, подсчётом и блочная|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_14|
 |Lab №20|Быстрая сортировка по Хоару и сортировка Шелла|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_15|
 |Lab №21|Многофазная и естественная сортировки|🟠/🟠||
-|Lab №22|Хэщ-таблица|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_17|
+|Lab №22|Хэш-таблица|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_17|
 
 #### Классы
 | п/п | Описание |Статус: код/схема |Ссылка на папку|
