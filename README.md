@@ -57,17 +57,17 @@
 |Lab №18|Поиски подстроки в строке(наивный, Бойер-Мур, КМП)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_13|
 |Lab №19|Быстрая сортировка по Ломуто, сортировки слиянием, подсчётом и блочная|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_14|
 |Lab №20|Быстрая сортировка по Хоару и сортировка Шелла|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_15|
-|Lab №21|Многофазная и естественная сортировки|🟢/🟢||
+|Lab №21|Многофазная и естественная сортировки|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_16|
 |Lab №22|Хэш-таблица|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/labs/lab_17|
 
 #### Классы
 | п/п | Описание |Статус: код/схема |Ссылка на папку|
 |---|---|---|---|
-|Lab №23|1-я лабораторная из методички классов (9 варинат)|🟢/🟢||
-|Lab №24|2-я лабораторная из методички классов (9 варинат)|🟢/🟢||
-|Lab №25|3-я лабораторная из методички классов (9 варинат)|🟢/🟢||
-|Lab №26|4-я лабораторная из методички классов (9 варинат)|🟢/🟢||
-|Lab №27|5-я лабораторная из методички классов (9 варинат)|🟢/🟢||
+|Lab №23|1-я лабораторная из методички классов (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/classes/lab1|
+|Lab №24|2-я лабораторная из методички классов (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/classes/lab2|
+|Lab №25|3-я лабораторная из методички классов (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/classes/lab3|
+|Lab №26|4-я лабораторная из методички классов (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/classes/lab4|
+|Lab №27|5-я лабораторная из методички классов (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/classes/lab5|
 |Lab №28|6-я лабораторная из методички классов (9 варинат)|🟠/🟠||
 |Lab №29|7-я лабораторная из методички классов (9 варинат)|🟠/🟠||
 |Lab №30|8-я лабораторная из методички классов (9 варинат)|🟠/🟠||
