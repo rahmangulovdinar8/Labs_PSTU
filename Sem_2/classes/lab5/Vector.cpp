@@ -1,6 +1,4 @@
 #include "Vector.h"
-#include <iostream>
-using namespace std;
 
 Vector::Vector() {
     beg = 0;

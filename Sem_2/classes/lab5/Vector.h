@@ -8,13 +8,13 @@ private:
     Object** beg;
     int size;
     int cur;
-    
+
 public:
     Vector();
     Vector(int);
     ~Vector();
-    
+
     void Add(Object*);
-    
+
     friend ostream& operator<<(ostream&, const Vector&);
 };
