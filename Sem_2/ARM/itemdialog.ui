@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ItemDialog</class>
+ <widget class="QDialog" name="ItemDialog">
+  <property name="geometry">
+   <rect><x>0</x><y>0</y><width>420</width><height>380</height></rect>
+  </property>
+  <property name="windowTitle">
+   <string>Добавить предмет для обмена</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QGroupBox" name="groupBox">
+     <property name="title"><string>Информация о предмете</string></property>
+     <layout class="QFormLayout" name="formLayout">
+      <item row="0" column="0">
+       <widget class="QLabel"><property name="text"><string>Название *</string></property></widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QLineEdit" name="nameEdit">
+        <property name="placeholderText"><string>напр. Учебник по физике</string></property>
+       </widget>
+      </item>
+
+      <item row="1" column="0">
+       <widget class="QLabel"><property name="text"><string>Описание</string></property></widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QPlainTextEdit" name="descriptionEdit">
+        <property name="maximumHeight"><number>70</number></property>
+       </widget>
+      </item>
+
+      <item row="2" column="0">
+       <widget class="QLabel"><property name="text"><string>Ваше имя *</string></property></widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QLineEdit" name="ownerEdit">
+        <property name="placeholderText"><string>Фамилия Имя</string></property>
+       </widget>
+      </item>
+
+      <item row="3" column="0">
+       <widget class="QLabel"><property name="text"><string>Комната *</string></property></widget>
+      </item>
+      <item row="3" column="1">
+       <widget class="QLineEdit" name="roomEdit">
+        <property name="placeholderText"><string>напр. 314</string></property>
+       </widget>
+      </item>
+
+      <item row="4" column="0">
+       <widget class="QLabel"><property name="text"><string>Категория</string></property></widget>
+      </item>
+      <item row="4" column="1">
+       <widget class="QComboBox" name="categoryCombo">
+        <item><property name="text"><string>Электроника</string></property></item>
+        <item><property name="text"><string>Книги</string></property></item>
+        <item><property name="text"><string>Одежда</string></property></item>
+        <item><property name="text"><string>Еда</string></property></item>
+        <item><property name="text"><string>Прочее</string></property></item>
+       </widget>
+      </item>
+
+      <item row="5" column="0">
+       <widget class="QLabel"><property name="text"><string>Хочу взамен</string></property></widget>
+      </item>
+      <item row="5" column="1">
+       <widget class="QLineEdit" name="wantEdit">
+        <property name="placeholderText"><string>что вас интересует</string></property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QDialogButtonBox" name="buttonBox">
+     <property name="orientation"><enum>Qt::Horizontal</enum></property>
+     <property name="standardButtons">
+      <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender><signal>rejected()</signal>
+   <receiver>ItemDialog</receiver><slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel"><x>316</x><y>260</y></hint>
+    <hint type="destinationlabel"><x>286</x><y>274</y></hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
