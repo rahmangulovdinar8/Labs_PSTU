@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     setlocale(LC_ALL, "Russian");
 
-    cout << "=== Set<int> ===" << endl;
+    cout << "== Set<int> ==" << endl;
     Set<int> A(5);
     Set<int> B(5);
 
@@ -40,7 +40,7 @@ int main() {
         cout << *it << " ";
     cout << endl;
 
-    cout << "\n=== Set<Money> ===" << endl;
+    cout << "\n== Set<Money> ==" << endl;
     Set<Money> M(3);
     cout << "Введите 3 суммы:" << endl;
     cin >> M;

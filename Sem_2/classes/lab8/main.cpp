@@ -9,7 +9,7 @@ int main() {
     setlocale(LC_ALL, "Russian");
 
     Dialog D;
-    cout << "=== Программа управления списком ===" << endl;
+    cout << "-- Программа управления списком --" << endl;
     cout << "Команды:" << endl;
     cout << "  + - добавить элемент" << endl;
     cout << "  - - удалить последний элемент" << endl;

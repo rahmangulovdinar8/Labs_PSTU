@@ -38,7 +38,7 @@ bool Graph::addEdge(const std::string &from, const std::string &to, int weight) 
     int j = vertexIndex[to];
     if (adjMatrix[i][j] != INF && adjMatrix[i][j] != 0) return false;
     adjMatrix[i][j] = weight;
-    // НЕ добавляем обратное ребро!
+
     return true;
 }
 
