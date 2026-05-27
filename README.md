@@ -82,7 +82,7 @@
 |---|---|---|---|
 |Lab №36|Бинарное дерево (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/classes/binary_tree|
 |Lab №37|Граф (9 варинат)|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/classes|
-|Lab №38|Коммивояжер|🟠/🟠||
+|Lab №38|Коммивояжер|🟢/🟢|https://github.com/rahmangulovdinar8/Labs_PSTU/tree/main/Sem_2/classes/komivoyadzher|
 
 
 ### Массивы
